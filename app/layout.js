@@ -9,8 +9,8 @@ import { dark } from "@clerk/themes";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "PrepMate - Your Ultimate Coding Interview Companion",
-  description: "",
+  title: "PrepMate - Your AI Career Companion",
+  description: "Your AI Career Companion",
 };
 
 export default function RootLayout({ children }) {
